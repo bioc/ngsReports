@@ -50,8 +50,9 @@ A Graphical User Interface (Shiny App) has been developed for interactive inspec
 - hisat2
 - macs2 callpeak
 - picard MarkDuplicates
-- rnaseqc
+- RNA-SeQC2
 - samtools flagstat
+- salmon
 - STAR
 
 ### Transcript/gene quantificaiton
